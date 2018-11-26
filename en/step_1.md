@@ -10,4 +10,4 @@ To use the **Pen** blocks in Scratch you need add the **Pen extension**.
 
 + The **Pen** blocks will now appear.
 
-![pen extension blocks](images/music-extension-blocks.png)
+![pen extension blocks](images/pen-extension-blocks.png)
