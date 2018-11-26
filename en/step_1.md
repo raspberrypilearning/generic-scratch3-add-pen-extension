@@ -1,6 +1,6 @@
 To use the **Pen** blocks in Scratch you need add the **Pen extension**.
 
-+ Click on the **Add extension** button in the bottom right.
++ Click on the **Add extension** button in the bottom left.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
