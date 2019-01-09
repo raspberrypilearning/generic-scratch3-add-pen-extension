@@ -1,13 +1,13 @@
 To use the Pen blocks in Scratch, you need add the **Pen extension**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ तळाशी डाव्या हाताच्या कोपर्यात **जोडा विस्तार** बटण क्लिक करा.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![हायलाइट केलेले विस्तार बटण जोडा](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ जोडण्यासाठी **पेन** विस्तारावर क्लिक करा.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![कलम विस्तार हायलाइट](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ पेन विभाग नंतर ब्लॉक मेनूच्या तळाशी दिसतो.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![पेन विस्तार ब्लॉक](images/pen-extension-blocks.png)
