@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Als je de Penblokken in Scratch wilt gebruiken, moet je de uitbreiding **Pen** toevoegen.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Klik op de knop **Voeg een uitbreiding toe** in de linkerbenedenhoek.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![voeg een uitbreiding toe knop gemarkeerd](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Klik op de **Pen** uitbreiding om deze toe te voegen.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![penuitbreiding gemarkeerd](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Het gedeelte Pen wordt vervolgens onder aan de menu blokken weergegeven.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![penuitbreidingsblokken](images/pen-extension-blocks.png)
