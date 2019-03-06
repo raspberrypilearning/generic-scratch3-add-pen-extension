@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Scratch'ta Kalem blokları kullanmak için **Kalem uzantısını** eklemeniz gerekir.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Sol alt köşedeki **Eklenti Ekle** düğmesine tıklayın.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![uzantı ekleme düğmesi vurgulanmış](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Eklemek için **Kalem** uzantısına tıklayın.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![kalem uzantısı vurgulanmış](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Kalem uzantısı Kod menüsünün altında belirir.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![kalem uzantısı blokları](images/pen-extension-blocks.png)
