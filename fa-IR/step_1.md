@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+برای استفاده از بلوک‌های قلم در اسکرچ، شما باید **افزونه‌ی قلم** را اضافه کنید.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ روی دکمه‌ی **Add extension** در گوشه‌ی سمت چپ پایین کلیک کنید.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![دکمه‌ی اضافه کردن افزونه مشخص شده](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ برای اضافه کردن آن، روی افزونه‌ی **Pen** کلیک کنید.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![افزونه‌ی قلم برجسته شده](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ سپس بخش قلم در پایین منوی بلوک‌ها ظاهر می‌شود.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![بلوک‌های افزونه‌ی قلم](images/pen-extension-blocks.png)
