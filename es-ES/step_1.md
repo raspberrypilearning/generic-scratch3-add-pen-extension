@@ -1,6 +1,6 @@
 Para usar los bloques lápiz en Scratch, necesitarás añadir la **Extensión Lápiz**.
 
-+ Haz click en el botón **Añadir Extensión ** en la esquina inferior izquierda.
++ Haz click en el botón **Añadir Extensión** en la esquina inferior izquierda.
 
 ![botón añadir extensión resaltado](images/add-extension-annotated.png)
 
