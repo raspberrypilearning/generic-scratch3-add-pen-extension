@@ -1,4 +1,4 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+I ddefnyddio'r blociau Pen yn Scratch, mae angen i chi ychwanegu'r estyniad **Pen**.
 
 + Clicia'r botwm **Ychwanegu Estyniad** yng ngwaelod-chwith y dudalen.
 
@@ -8,6 +8,6 @@ To use the Pen blocks in Scratch, you need add the **Pen extension**.
 
 ![estyniad pen wedi uwcholeuo](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Yna mae'r adran Pen yn ymddangos ar waelod y ddewislen blociau.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![blociau estyniad pen](images/pen-extension-blocks.png)
