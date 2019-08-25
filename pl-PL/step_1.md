@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Aby używać bloków pióra w Scratch, musisz dodać **rozszerzenie pióra**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Kliknij na przycisk **Dodaj rozszerzenie** w lewym dolnym rogu.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![podświetlony przycisk Dodaj rozszerzenie](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Kliknij rozszerzenie **Pióro** aby je dodać.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![podświetlone rozszerzenie pióra](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Sekcja Pióro pojawi się na dole menu bloków.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![bloki rozszerzenia pióra](images/pen-extension-blocks.png)
