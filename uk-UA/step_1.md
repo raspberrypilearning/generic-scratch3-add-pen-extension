@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Для використання блоків Олівець у Scratch потрібно додати розширення **Олівець**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Натисніть на кнопку **Додати розширення** у лівому нижньому куті.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![додати кнопку розширення виділено](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Натисніть на розширення **Олівець**, щоб додати його.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![розширення олівець виділено](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Розділ Олівець з’явиться у меню блоків знизу.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![блоки розширення олівець](images/pen-extension-blocks.png)
