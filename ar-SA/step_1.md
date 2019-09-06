@@ -1,10 +1,10 @@
 To use the Pen blocks in Scratch, you need add the **Pen extension**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ اضغط على زر **إدراج إضافة** في الزاوية اليسرى السفلى.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ انقر على ملحق **القلم** لإضافته.
 
 ![pen extension highlighted](images/click-pen-annotated.png)
 
