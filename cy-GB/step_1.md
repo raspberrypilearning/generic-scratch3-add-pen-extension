@@ -10,4 +10,5 @@ I ddefnyddio'r blociau Pin yn Scratch, mae angen i chi ychwanegu'r estyniad **Pe
 
 + Yna mae'r adran Pin yn ymddangos ar waelod y ddewislen blociau.
 
+
 ![blociau estyniad pin](images/pen-extension-blocks.png)
