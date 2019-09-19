@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+A Toll blokkok használatához a Scratchben, hozzá kell adnod a **Toll bővítményt**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Kattints a **Bővítmény hozzáadása** gombra a bal alsó sarokban.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![bővítmény gomb hozzáadása kiemelve](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Kattints a **Toll** bővítményre a hozzáadásához.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![a toll bővítmény kiemelve](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Ezután a Toll rész megjelenik a blokk menü alján.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![toll bővítmény blokkok](images/pen-extension-blocks.png)
