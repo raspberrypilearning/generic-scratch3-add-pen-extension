@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Da bi v Scratchu uporabil Svinčnik bloke, moraš dodati **razširitev Svinčnik**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ V spodnjem levem kotu kliknite gumb **Dodaj razširitev**.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![gumb dodaj razširitev](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Za dodajanje klikni na razširitev **Svinčnik**.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![označena razširitev svinčnik](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Nato se na dnu menija blokov prikaže oddelek Svinčnik.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![bloki razširitve svinčnik](images/pen-extension-blocks.png)
