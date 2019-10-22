@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Scratch වල පෑන් කට්ටි(Pen Blocks) භාවිතා කිරීමට, ඔබට **පෙන් දිගුව(Pen extension)**එකතු කළ යුතුය.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ පහළ වම් කෙළවරේ ඇති**දිගුවක් එක්කිරීම(Add extension)** බොත්තම ක්ලික් කරන්න.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![උද්දීපනය කළ දිගු බොත්තම(extension button) එක් කරන්න](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ එය එක් කිරීමට **පෙන්(pen)** දිගුව මත ක්ලික් කරන්න.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![පෑන් දිගුව(pen extension) ඉස්මතු කර ඇත](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ පසුව පෑන් කොටස(Pen section) බ්ලොක් මෙනුවේ(blocks menu) පතුලේ දිස් වේ.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![පෑන් දිගුවේ(pen extension) කොටස්(blocks)](images/pen-extension-blocks.png)
