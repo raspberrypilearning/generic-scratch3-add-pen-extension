@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+要在Scratch中使用画笔积木，您需要添加 **画笔扩展**。
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ 点击左下角的 **添加扩展** 按钮。
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![添加扩展按钮高亮显示](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ 点击 **画笔** 扩展以添加它。
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![画笔扩展高亮显示](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ 然后画笔积木就会出现在代码菜单的底部。
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![画笔扩展积木](images/pen-extension-blocks.png)
