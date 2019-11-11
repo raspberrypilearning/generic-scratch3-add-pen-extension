@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Para usar os blocos Caneta no Scratch, você precisa adicionar a extensão **Caneta**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Clique no botão **Adicionar extensão** no canto inferior esquerdo.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![adicionar botão de extensão destacado](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Clique na extensão **Caneta** para adicioná-la.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![extensão de caneta destacada](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ A seção Caneta aparece na parte inferior do menu de blocos.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![blocos de extensão de caneta](images/pen-extension-blocks.png)
