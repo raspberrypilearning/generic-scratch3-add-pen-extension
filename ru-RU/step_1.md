@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Чтобы использовать блоки Пера в Scratch, тебе нужно добавить расширение **Перо**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Нажми кнопку **Добавить расширение** в левом нижнем углу.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![выделенная кнопка добавления расширения](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Нажми на расширение **Перо**, чтобы добавить его.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![выделенное расширение перо](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Раздел «Перо» появится в меню блоков внизу.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![блоки расширения перо](images/pen-extension-blocks.png)
