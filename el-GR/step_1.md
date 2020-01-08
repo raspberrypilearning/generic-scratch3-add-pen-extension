@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Για να χρησιμοποιήσεις τα μπλοκ πένας στο Scratch, πρέπει να προσθέσεις την επέκταση **"Πένα"**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Κάνε κλικ στην **Προσθήκη επέκτασης** στην κάτω αριστερή γωνία.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![τονισμένο το κουμπί της "Προσθήκης επέκτασης"](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Κάνε κλικ στην επέκταση **"Πένα"** για να την προσθέσεις.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![τονισμένη επέκταση "Πένα"](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ Στη συνέχεια, η ενότητα "Πένα" εμφανίζεται στο κάτω μέρος του μενού των μπλοκ.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![μπλοκ επέκτασης "Πένα"](images/pen-extension-blocks.png)
