@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+要在 Scratch 使用畫筆相關的程式積木，你需要添加**畫筆擴展**。
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ 點擊工具箱最下方的**添加擴展**按鈕。
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![添加擴展按鈕高亮顯示](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ 在擴充功能的**畫筆**上點一下就可以加入。
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![畫筆擴展高亮顯示](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ 在工具箱的最後面會出現新的畫筆類積木。
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![畫筆類擴充積木](images/pen-extension-blocks.png)
