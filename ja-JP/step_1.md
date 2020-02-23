@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Scratchでペンブロックを使用するには、 **ペン拡張機能**を追加する必要があります。
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ 左下隅にある[ **拡張機能を追加**] ボタンをクリックします。
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![ハイライトされた拡張ボタンを追加](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ **ペン** 拡張機能をクリックして追加します。
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![ハイライトされたペン拡張機能](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ ペンセクションがブロックメニューの下の方に追加されます。
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![ペン拡張機能ブロック](images/pen-extension-blocks.png)
