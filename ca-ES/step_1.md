@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+Per utilitzar els blocs del Llapis a Scratch, cal afegir l'**extensió Llapis**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Fes clic al botó **Afegeix extensió** de la part inferior esquerra.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![afegir extensió botó destacat](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ Fes clic a l’extensió **Llapis** per afegir-la.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![extensió llapis destacada](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ A continuació, apareix la secció Llapis a la part inferior del menú de blocs.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![blocs d’extensió llapis](images/pen-extension-blocks.png)
