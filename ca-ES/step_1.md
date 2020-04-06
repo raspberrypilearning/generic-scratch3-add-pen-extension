@@ -1,6 +1,6 @@
 Per utilitzar els blocs del Llapis a Scratch, cal afegir l'**extensió Llapis**.
 
-+ Fes clic al botó **Afegeix extensió** de la part inferior esquerra.
++ Fes clic al botó **Afegeix una extensió** de la part inferior esquerra.
 
 ![afegir extensió botó destacat](images/add-extension-annotated.png)
 
