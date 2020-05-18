@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+ஸ்க்ராட்ச்-ல் பென் தொகுதிகளைப் பயன்படுத்த, நீங்கள் **பென் நீட்டிப்பு**ஐச் சேர்க்க வேண்டும்.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ கீழே இடது கை மூலையில் உள்ள **Add extension** பொத்தானைக் கிளிக் செய்க.
 
-![add extension button highlighted](images/add-extension-annotated.png)
+![Add extension பொத்தான் சிறப்பிக்கப்பட்டுள்ளது](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ அதைச் சேர்க்க **Pen** நீட்டிப்பைக் கிளிக் செய்க.
 
-![pen extension highlighted](images/click-pen-annotated.png)
+![பேனா நீட்டிப்பு சிறப்பிக்கப்பட்டுள்ளது](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ பேனா பிரிவு பின்னர் தொகுதிகள் மெனுவின் கீழே தோன்றும்.
 
-![pen extension blocks](images/pen-extension-blocks.png)
+![பேனா நீட்டிப்பு தொகுதிகள்](images/pen-extension-blocks.png)
