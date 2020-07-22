@@ -1,13 +1,13 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ ಪೆನ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಬಳಸಲು, ನೀವು **Pen extension**.
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ ಕ್ಲಿಕ್ ಮಾಡಿ **Add extension** ಬಟನ್ ಕೆಳಗಿನ ಎಡಗೈ ಮೂಲೆಯಲ್ಲಿ.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
-+ Click on the **Pen** extension to add it.
++ ಕ್ಲಿಕ್ ಮಾಡಿ **Pen** ವಿಸ್ತರಣೆ ಅದನ್ನು ಸೇರಿಸಲು.
 
 ![pen extension highlighted](images/click-pen-annotated.png)
 
-+ The Pen section then appears at the bottom of the blocks menu.
++ ಪೆನ್ ವಿಭಾಗವು ಬ್ಲಾಕ್ಗಳ ಮೆನುವಿನ ಕೆಳಭಾಗದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.
 
 ![pen extension blocks](images/pen-extension-blocks.png)
