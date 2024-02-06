@@ -1,4 +1,4 @@
-Untuk menggunakan blok Pena di Scratch, kamu perlu menambahkan ekstensi **Pena**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Klik tombol **Tambahkan ekstensi** di sudut kiri bawah.
 
