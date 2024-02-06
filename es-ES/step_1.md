@@ -1,4 +1,4 @@
-Para usar los bloques lápiz en Scratch, necesitarás añadir la **Extensión Lápiz**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Haz click en el botón **Añadir Extensión** en la esquina inferior izquierda.
 
