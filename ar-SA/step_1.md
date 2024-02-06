@@ -1,4 +1,4 @@
-لاستخدام كتل القلم في سكراتش ، تحتاج إلى إدراج** إضافة القلم**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + اضغط على زر **إدراج إضافة** في الزاوية اليسرى السفلى.
 
