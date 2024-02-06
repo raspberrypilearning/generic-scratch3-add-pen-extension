@@ -1,4 +1,4 @@
-Scratch වල පෑන් කට්ටි(Pen Blocks) භාවිතා කිරීමට, ඔබට **පෙන් දිගුව(Pen extension)**එකතු කළ යුතුය.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + පහළ වම් කෙළවරේ ඇති**දිගුවක් එක්කිරීම(Add extension)** බොත්තම ක්ලික් කරන්න.
 
