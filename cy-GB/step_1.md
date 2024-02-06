@@ -1,4 +1,4 @@
-I ddefnyddio'r blociau Pin yn Scratch, mae angen i chi ychwanegu'r estyniad **Pen**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Clicia'r botwm **Ychwanegu Estyniad** yng ngwaelod-chwith y dudalen.
 
