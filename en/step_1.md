@@ -1,4 +1,4 @@
-To use the Pen blocks in Scratch, you need add the **Pen extension**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Click on the **Add extension** button in the bottom left-hand corner.
 
