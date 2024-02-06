@@ -1,4 +1,4 @@
-要在 Scratch 使用畫筆相關的程式積木，你需要添加**畫筆擴展**。
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + 點擊工具箱最下方的**添加擴展**按鈕。
 
