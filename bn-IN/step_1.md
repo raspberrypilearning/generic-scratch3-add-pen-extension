@@ -1,4 +1,4 @@
-Scratch এ পেন ব্লকগুলি ব্যবহার করতে আপনার **Pen extension** যোগ করতে হবে.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + নীচে বাম-কোণে **Add extension** বোতামটি ক্লিক করুন।.
 
