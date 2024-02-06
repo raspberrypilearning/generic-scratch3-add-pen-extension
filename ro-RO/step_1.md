@@ -1,4 +1,4 @@
-Pentru a utiliza blocurile Stilou în Scratch, trebuie să adaugi **extensia Stilou**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Dă click pe butonul **Adaugă o extensie** în colțul din stânga jos.
 
