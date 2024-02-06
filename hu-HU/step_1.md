@@ -1,4 +1,4 @@
-A Toll blokkok használatához a Scratchben, hozzá kell adnod a **Toll bővítményt**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Kattints a **Bővítmény hozzáadása** gombra a bal alsó sarokban.
 
