@@ -1,4 +1,4 @@
-Um die Malstiftblöcke in Scratch zu verwenden, müssen Sie die **Malstift-Erweiterung** hinzufügen.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Klicken Sie auf die Schaltfläche **Erweiterung hinzufügen** in der unteren linken Ecke.
 
