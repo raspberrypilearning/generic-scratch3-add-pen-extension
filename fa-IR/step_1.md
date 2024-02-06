@@ -1,4 +1,4 @@
-برای استفاده از بلوک‌های قلم در اسکرچ، شما باید **افزونه‌ی قلم** را اضافه کنید.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + روی دکمه‌ی **Add extension** در گوشه‌ی سمت چپ پایین کلیک کنید.
 
