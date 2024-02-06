@@ -1,4 +1,4 @@
-Scratch-இல் பேனா தொகுதிகளைப்(blocks) பயன்படுத்த, நீங்கள் **Pen extension** (பேனா நீட்டிப்பு)-ஐச் சேர்க்க வேண்டும்.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + கீழே இடது கை மூலையில் உள்ள **Add extension** பொத்தானைக் கிளிக் செய்க.
 
