@@ -1,4 +1,4 @@
-ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ ಪೆನ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಬಳಸಲು, ನೀವು **Pen extension**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + ಕ್ಲಿಕ್ ಮಾಡಿ **Add extension** ಬಟನ್ ಕೆಳಗಿನ ಎಡಗೈ ಮೂಲೆಯಲ್ಲಿ.
 
