@@ -1,4 +1,4 @@
-Scratch में पेन ब्लॉक्स का उपयोग करने के लिए, आपको **Pen extension** जोड़ना होगा।
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + नीचे बाएँ हाथ के कोने में **Add extension** पर क्लिक करें।
 
