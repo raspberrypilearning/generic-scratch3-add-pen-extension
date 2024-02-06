@@ -1,4 +1,4 @@
-Za korištenje blokova kôda kojima ćeš upravljati olovkom u Scratchu, moraš dodati proširenje **Olovka**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Klikni na gumb **Dodaj proširenje** u donjem lijevom kutu.
 
