@@ -1,4 +1,4 @@
-Per utilizzare i blocchi penna in Scratch, è necessario aggiungere **l'estensione Penna**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Fai clic sul pulsante **Aggiungi estensione** nell'angolo in basso a sinistra.
 
