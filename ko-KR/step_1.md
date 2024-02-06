@@ -1,4 +1,4 @@
-스크래치에서 펜 블록을 사용하려면 **펜 확장**을 추가해야 합니다.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + 왼쪽 하단에 **추가 확장** 버튼을 클릭 하십시오.
 
