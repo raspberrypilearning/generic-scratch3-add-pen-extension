@@ -1,4 +1,4 @@
-Para usar os blocos da Caneta no Scratch, precisas de adicionar a extensão **Caneta**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Clica no botão **Adicionar extensão** no canto inferior esquerdo.
 
