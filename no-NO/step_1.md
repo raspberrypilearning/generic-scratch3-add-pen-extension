@@ -1,4 +1,4 @@
-For å bruke penneblokkene i Scratch, må du legge til **pennutvidelsen**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Klikk på **Hent tilleggsfunksjon**-knappen i nedre venstre hjørne.
 
