@@ -1,4 +1,4 @@
-Pour utiliser les blocs Stylo dans Scratch, tu dois ajouter l'**extension stylo**.
+To use the Pen blocks in Scratch, you need to add the **Pen extension**.
 
 + Clique sur le bouton **Ajouter une extension** dans le coin en bas, à gauche.
 
